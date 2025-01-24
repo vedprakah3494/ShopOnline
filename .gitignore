@@ -1,0 +1,100 @@
+# Visual Studio-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.log
+*.vspscc
+*.vssscc
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.config
+bin/
+obj/
+packages/
+
+# Generated files
+*.user
+*.Designer.cs
+Generated_Code/
+
+# NuGet package cache
+.nuget/
+
+# Local development settings files
+*.local
+appsettings.Development.json
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+*.vsix
+*.vsixmanifest
+
+# Editor-specific files
+.vscode/
+
+# Rider-specific files
+.idea/
+.idea/*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Blazor-specific files
+wwwroot/css/app.css
+wwwroot/css/bootstrap/
+wwwroot/css/open-iconic/
+wwwroot/js/
+wwwroot/lib/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Backup & report files
+*.bak
+*.html
+*.css
+*.js
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+*.md
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+*.config
+*.ini
+*.properties
+*.sh
+*.bat
+*.cmd
+*.ps1
+*.psm1
+*.psd1
+*.ps1xml
+*.pssc
+*.psrc
+*.psc1
