@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Product_APIs.Model.Config;
 
 namespace Product_APIs.Model
 {
@@ -8,6 +9,12 @@ namespace Product_APIs.Model
         {
         }
         public DbSet<Product> Products { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new ProductConfig());
+           
+        }
     }   
   
 }

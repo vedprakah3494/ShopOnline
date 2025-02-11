@@ -1,0 +1,89 @@
+2025-02-11 14:18:51.236 [WRN] The WebRootPath was not found: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs\wwwroot. Static files may be unavailable.
+2025-02-11 14:18:51.939 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger - null null
+2025-02-11 14:18:52.684 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-11 14:18:52.685 [INF] Hosting environment: Development
+2025-02-11 14:18:52.685 [INF] Content root path: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs
+2025-02-11 14:18:53.164 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger - 301 null null 1227.7385ms
+2025-02-11 14:18:53.434 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/index.html - null null
+2025-02-11 14:18:53.758 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/index.html - 200 null text/html;charset=utf-8 324.5449ms
+2025-02-11 14:18:53.965 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/swagger-ui.css - null null
+2025-02-11 14:18:53.968 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/swagger-ui-bundle.js - null null
+2025-02-11 14:18:53.988 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/swagger-ui-standalone-preset.js - null null
+2025-02-11 14:18:54.014 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-11 14:18:54.014 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-02-11 14:18:54.020 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/swagger-ui.css - 200 152034 text/css 54.8824ms
+2025-02-11 14:18:54.021 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 33.2831ms
+2025-02-11 14:18:54.033 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-02-11 14:18:54.097 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 128.5868ms
+2025-02-11 14:18:54.266 [INF] Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-11 14:18:54.269 [INF] Request starting HTTP/2 GET https://localhost:44319/_vs/browserLink - null null
+2025-02-11 14:18:54.272 [INF] Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 4.9021ms
+2025-02-11 14:18:54.360 [INF] Request finished HTTP/2 GET https://localhost:44319/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.099ms
+2025-02-11 14:18:57.524 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/v1/swagger.json - null null
+2025-02-11 14:18:57.549 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 25.369ms
+2025-02-11 14:22:21.760 [WRN] The WebRootPath was not found: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs\wwwroot. Static files may be unavailable.
+2025-02-11 14:22:22.276 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/index.html - null null
+2025-02-11 14:22:22.778 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-11 14:22:22.779 [INF] Hosting environment: Development
+2025-02-11 14:22:22.780 [INF] Content root path: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs
+2025-02-11 14:22:23.369 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/index.html - 200 null text/html;charset=utf-8 1095.2446ms
+2025-02-11 14:22:24.909 [INF] Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-11 14:22:24.931 [INF] Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 20.0394ms
+2025-02-11 14:22:24.956 [INF] Request starting HTTP/2 GET https://localhost:44319/_vs/browserLink - null null
+2025-02-11 14:22:25.036 [INF] Request finished HTTP/2 GET https://localhost:44319/_vs/browserLink - 200 null text/javascript; charset=UTF-8 80.6943ms
+2025-02-11 14:22:28.109 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/v1/swagger.json - null null
+2025-02-11 14:22:28.132 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 22.8072ms
+2025-02-11 14:23:22.474 [WRN] The WebRootPath was not found: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs\wwwroot. Static files may be unavailable.
+2025-02-11 14:23:23.749 [INF] Now listening on: http://localhost:5230
+2025-02-11 14:23:24.206 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-11 14:23:24.840 [INF] Hosting environment: Development
+2025-02-11 14:23:24.931 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger - null null
+2025-02-11 14:23:25.046 [INF] Content root path: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs
+2025-02-11 14:23:26.108 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger - 301 0 null 1179.6392ms
+2025-02-11 14:23:26.304 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/index.html - null null
+2025-02-11 14:23:26.744 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/index.html - 200 null text/html;charset=utf-8 441.204ms
+2025-02-11 14:23:26.928 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/swagger-ui-bundle.js - null null
+2025-02-11 14:23:26.977 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/swagger-ui-standalone-preset.js - null null
+2025-02-11 14:23:27.080 [INF] Request starting HTTP/1.1 GET http://localhost:5230/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-11 14:23:28.126 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/swagger-ui.css - null null
+2025-02-11 14:23:28.181 [INF] Request starting HTTP/1.1 GET http://localhost:5230/_vs/browserLink - null null
+2025-02-11 14:23:28.254 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-02-11 14:23:28.574 [INF] Request finished HTTP/1.1 GET http://localhost:5230/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 1494.7486ms
+2025-02-11 14:23:28.663 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-11 14:23:28.978 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-02-11 14:23:28.736 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 1736.7495ms
+2025-02-11 14:23:29.321 [INF] Request finished HTTP/1.1 GET http://localhost:5230/_vs/browserLink - 200 null text/javascript; charset=UTF-8 1140.0388ms
+2025-02-11 14:23:29.354 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/swagger-ui.css - 200 152034 text/css 1228.7727ms
+2025-02-11 14:23:29.357 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 2429.1605ms
+2025-02-11 14:23:29.518 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/v1/swagger.json - null null
+2025-02-11 14:23:29.612 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/favicon-32x32.png - null null
+2025-02-11 14:23:29.797 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 278.7349ms
+2025-02-11 14:23:29.803 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-02-11 14:23:29.857 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/favicon-32x32.png - 200 628 image/png 245.4215ms
+2025-02-11 14:26:36.195 [WRN] The WebRootPath was not found: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs\wwwroot. Static files may be unavailable.
+2025-02-11 14:26:36.567 [INF] Now listening on: http://localhost:5230
+2025-02-11 14:26:37.740 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/index.html - null null
+2025-02-11 14:26:37.751 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-11 14:26:37.797 [INF] Hosting environment: Development
+2025-02-11 14:26:37.815 [INF] Content root path: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs
+2025-02-11 14:26:38.622 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/index.html - 200 null text/html;charset=utf-8 885.9167ms
+2025-02-11 14:26:43.499 [INF] Request starting HTTP/1.1 GET http://localhost:5230/_vs/browserLink - null null
+2025-02-11 14:26:43.514 [INF] Request starting HTTP/1.1 GET http://localhost:5230/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-11 14:26:43.529 [INF] Request finished HTTP/1.1 GET http://localhost:5230/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 15.7737ms
+2025-02-11 14:26:47.253 [INF] Request starting HTTP/1.1 GET http://localhost:5230/api/product - null null
+2025-02-11 14:26:47.329 [INF] Request finished HTTP/1.1 GET http://localhost:5230/_vs/browserLink - 200 null text/javascript; charset=UTF-8 3830.4321ms
+2025-02-11 14:26:47.359 [WRN] Failed to determine the https port for redirect.
+2025-02-11 14:26:47.425 [INF] Executing endpoint 'Product_APIs.Controllers.ProductController.Get (Product-APIs)'
+2025-02-11 14:26:47.494 [INF] Route matched with {action = "Get", controller = "Product"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Product_APIs.DTOs.ProductDTO]] Get() on controller Product_APIs.Controllers.ProductController (Product-APIs).
+2025-02-11 14:26:48.329 [INF] Request starting HTTP/1.1 GET http://localhost:5230/swagger/v1/swagger.json - null null
+2025-02-11 14:26:52.418 [INF] Getting all products
+2025-02-11 14:26:52.464 [INF] Request finished HTTP/1.1 GET http://localhost:5230/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 4135.4026ms
+2025-02-11 14:26:53.577 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2025-02-11 14:26:56.135 [INF] Executed DbCommand (104ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[Id], [p].[Category], [p].[Name], [p].[Price]
+FROM [Products] AS [p]
+2025-02-11 14:26:56.279 [INF] Returning all products
+2025-02-11 14:26:56.291 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Product_APIs.DTOs.ProductDTO, Product-APIs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-11 14:26:56.336 [INF] Executed action Product_APIs.Controllers.ProductController.Get (Product-APIs) in 8824.3372ms
+2025-02-11 14:26:56.348 [INF] Executed endpoint 'Product_APIs.Controllers.ProductController.Get (Product-APIs)'
+2025-02-11 14:26:56.369 [INF] Request finished HTTP/1.1 GET http://localhost:5230/api/product - 200 null application/json; charset=utf-8 9116.6375ms

@@ -81,7 +81,6 @@ wwwroot/lib/
 *.ppt
 *.pptx
 *.csv
-*.json
 *.xml
 *.yaml
 *.yml

@@ -7,6 +7,7 @@
     <RootNamespace>Product_MVC</RootNamespace>
     <UserSecretsId>30d1e43f-1ed5-473b-8a49-d4537a800a04</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <Configurations>Debug;Release;SIT</Configurations>
   </PropertyGroup>
 
   <ItemGroup>

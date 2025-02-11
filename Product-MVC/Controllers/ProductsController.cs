@@ -18,6 +18,7 @@ namespace Product_MVC.Controllers
 
         public async Task<IActionResult> Index()
         {
+          
             var products = await _productService.GetProducts();
             return View(products);
         }

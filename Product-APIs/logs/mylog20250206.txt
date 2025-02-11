@@ -1,0 +1,26 @@
+2025-02-06 16:11:01.540 [WRN] The WebRootPath was not found: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs\wwwroot. Static files may be unavailable.
+2025-02-06 16:11:02.100 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger - null null
+2025-02-06 16:11:02.348 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-06 16:11:02.349 [INF] Hosting environment: Development
+2025-02-06 16:11:02.349 [INF] Content root path: C:\Users\Lenovo\source\repos\ShopOnline\Product-APIs
+2025-02-06 16:11:02.578 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger - 301 null null 463.0476ms
+2025-02-06 16:11:02.584 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/index.html - null null
+2025-02-06 16:11:02.853 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/index.html - 200 null text/html;charset=utf-8 269.9488ms
+2025-02-06 16:11:03.530 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/swagger-ui.css - null null
+2025-02-06 16:11:03.554 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/swagger-ui-bundle.js - null null
+2025-02-06 16:11:03.577 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-06 16:11:03.600 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/swagger-ui.css - 200 152034 text/css 69.9998ms
+2025-02-06 16:11:03.603 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-02-06 16:11:03.668 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 113.5395ms
+2025-02-06 16:11:03.684 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/swagger-ui-standalone-preset.js - null null
+2025-02-06 16:11:03.691 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-02-06 16:11:03.697 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 12.1665ms
+2025-02-06 16:11:03.979 [INF] Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-06 16:11:03.986 [INF] Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - 200 13776 application/javascript; charset=utf-8 4.9196ms
+2025-02-06 16:11:04.011 [INF] Request starting HTTP/2 GET https://localhost:44319/_vs/browserLink - null null
+2025-02-06 16:11:04.124 [INF] Request finished HTTP/2 GET https://localhost:44319/_vs/browserLink - 200 null text/javascript; charset=UTF-8 112.8287ms
+2025-02-06 16:11:09.188 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/favicon-32x32.png - null null
+2025-02-06 16:11:09.188 [INF] Request starting HTTP/2 GET https://localhost:44319/swagger/v1/swagger.json - null null
+2025-02-06 16:11:09.191 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-02-06 16:11:09.191 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/favicon-32x32.png - 200 628 image/png 2.896ms
+2025-02-06 16:11:09.214 [INF] Request finished HTTP/2 GET https://localhost:44319/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 26.1773ms
